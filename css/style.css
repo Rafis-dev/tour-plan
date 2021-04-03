@@ -435,6 +435,8 @@ template {
   width: 65px;
   border: none;
   background-color: #EC1F46;
+  cursor: pointer;
+  outline: none;
 }
 
 .user {
@@ -814,6 +816,7 @@ template {
   height: 100%;
   border: none;
   outline: none;
+  cursor: pointer;
   background-color: #EC1F46;
   color: #fff;
 }
